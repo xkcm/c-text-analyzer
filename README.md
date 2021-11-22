@@ -8,7 +8,7 @@ You can use the `c-text-analyzer` binary in the root folder in the following way
 
 Example output
 
-```sh
+```
 1) Character "L" occurred 1 times [#L=1]
 2) Character "o" occurred 358 times [#o=358]
 3) Character "r" occurred 489 times [#r=489]
